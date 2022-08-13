@@ -34,7 +34,7 @@ cd Calculator
 
 **Step 3:** Compile the file comtaining the code/program for the calculator.
 ````
-gcc -Wall -Werror -Wextra -pedantic *.c -o calculator
+gcc -Wall -Werror -Wextra -pedantic *.c -o calculator.c
 ````
 
 **Step 4:** Run the calculator.
