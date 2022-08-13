@@ -48,6 +48,7 @@ At present, the calculator has no known bugs. However, I am looking forward to u
 ## Author
 Elsie Akoth 
 > Contact me via email: elsieakoth21@gmail.com.
+
 > I have written a technical article on this project. Read it here:
 
 ## License
