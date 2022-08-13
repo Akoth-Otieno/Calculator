@@ -21,7 +21,7 @@ To use this simple calculator, ensure you have installed:
 * git
 * gcc 7.3 (or any version).
 
-**Step 1*: Clone this repository
+**Step 1 :** Clone this repository**
 ````
 git clone https://github.com/Akoth-Otieno/Calculator
 ````
