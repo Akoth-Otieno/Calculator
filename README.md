@@ -1,5 +1,5 @@
 # SIMPLE CALCULATOR
-
+[![calculator.png](https://i.postimg.cc/nzwTs2fz/calculator.png)](https://postimg.cc/S2Cc3WsF)
 ## Description of Project
 This is a simple calculator program, written in the low level programming language known as C.
 The calculator's functionality supports 4 mathematical operations, namely:
