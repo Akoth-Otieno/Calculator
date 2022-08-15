@@ -18,23 +18,23 @@ int main()
 	scanf("%lf %lf",&num_1,&num_2);
 
 	/*The logic for the calculator using switch statement*/
-	switch
+	switch (operator)
 	{
 		case '+':
-			printf("%lf + %lf = lf", num_1,num_2,(num_1+num_2));
+			printf("%lf + %lf = %lf", num_1,num_2,(num_1+num_2));
 			break;
 
 		case '-':
-                        printf("%lf - %lf = lf", num_1,num_2,(num_1-num_2));
+                        printf("%lf - %lf = %lf", num_1,num_2,(num_1-num_2));
                         break;
 
 		case '*':
-                        printf("%lf * %lf = lf", num_1,num_2,(num_1*num_2));
+                        printf("%lf * %lf = %lf", num_1,num_2,(num_1*num_2));
                         break;
 
 		case '/':
 			if (num_2 =! 0.0)
-				printf("%lf / %lf = lf", num_1,num_2,(num_1/num_2));
+				printf("%lf / %lf = %lf", num_1,num_2,(num_1/num_2));
 			else
 				printf("Divide by Zero");
 			break;
